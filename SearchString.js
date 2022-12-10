@@ -1,7 +1,7 @@
 
 function loadBook(filename, displayName) {
     let cb = "";
-    let url = "books/" + filename;
+    let url = "./books/" + filename;
 
    
     document.getElementById("fileName").innerHTML = displayName;
