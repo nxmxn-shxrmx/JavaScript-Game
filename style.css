@@ -1,0 +1,42 @@
+@import url("https://fonts.googleapis.com/css2?family=Nunito:wght@200;300;400;600&display=swap");
+*
+{
+    font-family: cursive;
+}
+body {
+    background: #bfdf4b;
+   
+    background: -webkit-linear-gradient(to right, #ebfe82, #f1d901);
+    background: linear-gradient(to right, #ebfe82, #f1d901);
+
+}
+.tt
+{
+    text-align: center;
+}
+
+.re {
+    max-width: 75%;
+    height: auto;
+}
+.next
+{
+    color: black;
+    font-size: 30px;
+}
+
+img {
+    padding: 15px;
+}
+
+.displayBox {
+    width: 100%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif
+}
+
+.scroll-box {
+    overflow-y: auto;
+    height: 500px;
+    float: left;
+    padding: 1rem;
+}
