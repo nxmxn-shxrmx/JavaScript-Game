@@ -100,7 +100,7 @@ body {
     padding: 20px;
     position: absolute;
     background: #ffffff;
-   
+    backface-visibility: hidden;
 }
 
 .front-face {
